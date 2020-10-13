@@ -2,6 +2,7 @@
     <string name="app_name">MyListView</string>
     <string name="name_heroes">Nama Pahlawan</string>
     <string name="lorem">lorem ipsum dolor sit amet</string>
+    <string name="todo">TODO</string>
 
     <string-array name="data_name">
         <item>Ahmad Dahlan</item>
